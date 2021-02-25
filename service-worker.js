@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yoboshu/precache-manifest.e85ed717f5fa751a6ed2515a8f6c06e8.js"
+  "/yobushu/precache-manifest.0b8d489cb3c005bbe94c6f400fc1b752.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/yoboshu/index.html", {
+workbox.routing.registerNavigationRoute("/yobushu/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
