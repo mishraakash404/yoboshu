@@ -1,13 +1,13 @@
 {
-  "main.css": "/yobushu/static/css/main.ac06906b.chunk.css",
-  "main.js": "/yobushu/static/js/main.00726791.chunk.js",
-  "main.js.map": "/yobushu/static/js/main.00726791.chunk.js.map",
-  "runtime~main.js": "/yobushu/static/js/runtime~main.90cd375d.js",
-  "runtime~main.js.map": "/yobushu/static/js/runtime~main.90cd375d.js.map",
-  "static/js/2.f87b1143.chunk.js": "/yobushu/static/js/2.f87b1143.chunk.js",
-  "static/js/2.f87b1143.chunk.js.map": "/yobushu/static/js/2.f87b1143.chunk.js.map",
-  "index.html": "/yobushu/index.html",
-  "precache-manifest.52b0350648925b2a3b1eec47f069199b.js": "/yobushu/precache-manifest.52b0350648925b2a3b1eec47f069199b.js",
-  "service-worker.js": "/yobushu/service-worker.js",
-  "static/css/main.ac06906b.chunk.css.map": "/yobushu/static/css/main.ac06906b.chunk.css.map"
+  "main.css": "/yoboshu/static/css/main.ac06906b.chunk.css",
+  "main.js": "/yoboshu/static/js/main.f4935e28.chunk.js",
+  "main.js.map": "/yoboshu/static/js/main.f4935e28.chunk.js.map",
+  "runtime~main.js": "/yoboshu/static/js/runtime~main.8b1c8784.js",
+  "runtime~main.js.map": "/yoboshu/static/js/runtime~main.8b1c8784.js.map",
+  "static/js/2.f87b1143.chunk.js": "/yoboshu/static/js/2.f87b1143.chunk.js",
+  "static/js/2.f87b1143.chunk.js.map": "/yoboshu/static/js/2.f87b1143.chunk.js.map",
+  "index.html": "/yoboshu/index.html",
+  "precache-manifest.fc07a98bdeedfd94a3bb291e902608fd.js": "/yoboshu/precache-manifest.fc07a98bdeedfd94a3bb291e902608fd.js",
+  "service-worker.js": "/yoboshu/service-worker.js",
+  "static/css/main.ac06906b.chunk.css.map": "/yoboshu/static/css/main.ac06906b.chunk.css.map"
 }
